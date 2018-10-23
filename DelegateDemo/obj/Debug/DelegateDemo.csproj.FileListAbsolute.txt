@@ -1,0 +1,6 @@
+c:\users\vic\source\repos\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.exe
+c:\users\vic\source\repos\DelegateDemo\DelegateDemo\bin\Debug\DelegateDemo.pdb
+c:\users\vic\source\repos\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csprojAssemblyReference.cache
+c:\users\vic\source\repos\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.csproj.CoreCompileInputs.cache
+c:\users\vic\source\repos\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.exe
+c:\users\vic\source\repos\DelegateDemo\DelegateDemo\obj\Debug\DelegateDemo.pdb
